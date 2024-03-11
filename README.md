@@ -13,7 +13,7 @@ Specialties include:
   integration / continuous delivery, and maintainability.
 
   Rust and Python are our top 2 programming languages currently, but also have
-  extensive experience in C, C++, Go, Java, Perl, Ruby, Swift, Objective C, Bash,
+  extensive experience in C, C++, Go, Java, Perl, Ruby, Swift, Objective-C, Bash,
   ZSH, and more.
 
 * **Built-In Security**
