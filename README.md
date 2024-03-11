@@ -6,7 +6,7 @@ approaches.
 
 Specialties include:
 
-* **Cross-platform Open Source Technologies**
+* **Cross-Platform Open Source Technologies**
 
   A great design works across cloud, server, and all major operating systems, and
   utilizes modern approaches including testing, version control, continuous
@@ -16,7 +16,7 @@ Specialties include:
   extensive experience in C, C++, Go, Java, Perl, Ruby, Swift, Objective C, Bash,
   ZSH, and more.
 
-* **Built-in Security**
+* **Built-In Security**
 
   20 years of experience performing penetration testing, vulnerability
   assessments, source code reviews, physical security assessments, digital
