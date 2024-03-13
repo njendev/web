@@ -18,7 +18,7 @@ Specialties include:
 
 * **Built-In Security**
 
-  20 years of experience performing penetration testing, vulnerability
+  Over 20 years of experience performing penetration testing, vulnerability
   assessments, source code reviews, physical security assessments, digital
   forensics, etc for federal and state government clients, and large, medium, and
   small business customers in many industries, inform secure design, engineering,
